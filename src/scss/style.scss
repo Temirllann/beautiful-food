@@ -631,7 +631,6 @@ a{
         background-color: #fff;
         border-radius: 6px;
         cursor: pointer;
-        border: 0;
         width: 186px;
         height: 60px;
         color: #222222;
@@ -642,5 +641,6 @@ a{
     &__btn7:hover{
         background-color: #35B8BE;
         color: #FFFFFF;
+        border: 5px;
     }
 }
